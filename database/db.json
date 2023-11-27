@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "title": "Why Lorem is popular ?",
+      "body": "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions.",
+      "tags": [
+        "knowledge"
+      ],
+      "id": 1
+    },
+    {
+      "title": "Subscribe to the Digital Watch newsletters",
+      "body": "Choose whether you would like to receive our weekly and/or monthly newsletters.\nBy clicking on the Subscribe button, you are agreeing to our Privacy Policy.\n",
+      "tags": [
+        "marketing",
+        "html"
+      ],
+      "id": 2
+    },
+    {
+      "title": "Stay Secure Without Migrating",
+      "body": "Do you have SLAs in place that prevent you from shipping unsupported libraries?\nDo you have FedRAMP, PCI, HIPAA, or other compliance requirements?",
+      "tags": [
+        "vuejs",
+        "js",
+        "marketing"
+      ],
+      "id": 3
+    },
+    {
+      "title": "Learn how to create a responsive blog layout with CSS?",
+      "body": "Learn how to create a responsive blog layout that varies between two and full-width columns depending on screen width.\n\nResize the browser window to see the responsive effect:",
+      "tags": [
+        "html",
+        "css"
+      ],
+      "id": 4
+    }
+  ]
+}
